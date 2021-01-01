@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science And Mathematics student at Ariel University</h3>
 
 - 🌱 I’m currently learning Java, Python and C langauges
-- 💬 LinkedIn: linkedin.com/in/eran-levy9
+- 💬 LinkedIn: www.linkedin.com/in/eran-levy9
 - 📫 Email: eranlevy9@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
