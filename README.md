@@ -16,7 +16,7 @@
 <p align="left"> 
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
 <a href="https://www.java.com" target="Java"> <img src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" alt="java" width="40" height="40"/>  </a>  
-<a href="https://www.python.org" target="Python"> <img src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png" alt="python" width="40" height="40"/>  </a>  
+<img src="https://www.flaticon.com/svg/vstatic/svg/1387/1387537.svg?token=exp=1617012136~hmac=796bc28b2bb97e2e9fad038660255a82" width="40" height="40"/>  </a>  
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/>  </a>  
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
