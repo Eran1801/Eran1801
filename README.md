@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Eran</h1>
 <h3 align="center">Computer Science And Mathematics student at Ariel University</h3>
 
-- 🌱 I’m currently learning Java, Python and C langauges
+- 🌱 I’m currently learning Java, Python, C , C++ and SQL langauges
 - 💬 LinkedIn: www.linkedin.com/in/eran-levy9
 - 📫 Email: eranlevy9@gmail.com
 
