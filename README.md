@@ -1,24 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Eran</h1>
-<h3 align="center">Computer Science And Mathematics student at Ariel University</h3>
 
-- 🌱 I’m currently learning Java, Python, C , C++ and SQL langauges
-- 💬 LinkedIn: www.linkedin.com/in/eran-levy9
-- 📫 Email: eranlevy9@gmail.com
+🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eran1801&theme=slateorange&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eran1801&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
-</a>
+📌 Scroll down to see my Pinned Repositories.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-<img src="https://www.flaticon.com/svg/vstatic/svg/331/331398.svg?token=exp=1617012361~hmac=a50d3cc6aa0e7fa0bb847a947a29631b" alt="java" width="40" height="40"/>  </a>  
-<img src="https://www.flaticon.com/svg/vstatic/svg/1387/1387537.svg?token=exp=1617012136~hmac=796bc28b2bb97e2e9fad038660255a82" width="40" height="40"/>  </a>  
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/>  </a>  
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
-<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-</p>
+📫 How to reach me: Eranlevy9@gmail.com
+ 
+<a href="https://www.linkedin.com/in/eran-levy9/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+### Languages and Tools:
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB"
+src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+
+![](https://komarev.com/ghpvc/?username=Eran1801&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=46644036)
