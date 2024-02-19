@@ -2,7 +2,7 @@
 
 🎓 B.Sc. in Computer Science and Mathematics from Ariel University
 
-📌 Scroll down to see my Pinned Repositories.
+📌 Scroll down to see my pinned repositories.
 
 📫 How to reach me: Eranlevy9@gmail.com
  
